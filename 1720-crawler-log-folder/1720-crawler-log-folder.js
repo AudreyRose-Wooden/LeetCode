@@ -3,19 +3,16 @@
  * @return {number}
  */
 var minOperations = function(logs) {
-    // "../" == pop
-    // "./" == continue
-    // "x/" == push
-
-    let directory = [];
-
-    for(let i=0; i<logs.length; i++){
-        if(logs[i] == "../"){
-            directory.pop();
-        } else if (logs[i] !== "./"){
-            directory.push(logs[i]);
+    let curr_depth = 0;
+    for(let action of logs){
+        if(action == "../"){
+            curr_depth = Math.max(curr_depth-1, 0);
+        } else if (action == "./"){
+            continue;
+        } else {
+            curr_depth += 1;
         }
     }
 
-    return directory.length;
+    return curr_depth
 };
