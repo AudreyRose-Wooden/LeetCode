@@ -7,9 +7,7 @@ var minOperations = function(logs) {
     for(let action of logs){
         if(action == "../"){
             curr_depth = Math.max(curr_depth-1, 0);
-        } else if (action == "./"){
-            continue;
-        } else {
+        } else if (action !== "./") {
             curr_depth += 1;
         }
     }
