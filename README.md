@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AudreyRose-Wooden/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/AudreyRose-Wooden/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AudreyRose-Wooden/LeetCode/tree/master/0189-rotate-array) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/AudreyRose-Wooden/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AudreyRose-Wooden/LeetCode/tree/master/0169-majority-element) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/AudreyRose-Wooden/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
