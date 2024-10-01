@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AudreyRose-Wooden/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AudreyRose-Wooden/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AudreyRose-Wooden/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AudreyRose-Wooden/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AudreyRose-Wooden/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/AudreyRose-Wooden/LeetCode/tree/master/0169-majority-element) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AudreyRose-Wooden/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Divide and Conquer
