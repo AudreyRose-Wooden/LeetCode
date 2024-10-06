@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AudreyRose-Wooden/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AudreyRose-Wooden/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0165-compare-version-numbers](https://github.com/AudreyRose-Wooden/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/AudreyRose-Wooden/LeetCode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -55,4 +56,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/AudreyRose-Wooden/LeetCode/tree/master/0058-length-of-last-word) |
+| [0165-compare-version-numbers](https://github.com/AudreyRose-Wooden/LeetCode/tree/master/0165-compare-version-numbers) |
 <!---LeetCode Topics End-->
